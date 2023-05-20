@@ -1,7 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi dear, I'm Doljinsuren</h1>
-<h3 align="center">I am passionate and skilled frontend developer with a strong focus on creating visually appealing and user- friendly web applications. I specialize in front-end technologies such as reactjs, nextjs, reactNative, sass, tailwind, mui and figma.</h3>
-<img  align="right" alt="Coding" width="400" src=“https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif“>
+<h3 align="center">I am passionate and skilled frontend developer with a strong focus on creating visually appealing and user- friendly web applications.</h3>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=surneke&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp)" alt="surneke" /> </p>
 
